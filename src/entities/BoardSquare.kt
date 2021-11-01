@@ -1,3 +1,5 @@
+import Color.SquareColor
+
 data class BoardSquare
     (
     var squareColor: SquareColor,
